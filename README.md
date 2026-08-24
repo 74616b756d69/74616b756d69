@@ -14,7 +14,7 @@
 
 ---
 
-## About Me
+## <img src="https://api.iconify.design/mdi/account-circle.svg?color=%2358a6ff&width=28&height=28" width="28" align="center" /> About Me
 
 KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 **Laravel / ASP.NET を中心としたバックエンド開発**を得意とし、
@@ -25,22 +25,26 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 
 <table>
 <tr>
+<td width="48" align="center"><img src="https://api.iconify.design/mdi/trophy.svg?color=%23EFB700&width=32&height=32" width="32" align="center" /></td>
 <td><b>3つのチームでリーダーを担当</b><br>産学連携2件・文化祭制作でチームを牽引し、進行管理と技術選定を主導</td>
 </tr>
 <tr>
+<td width="48" align="center"><img src="https://api.iconify.design/mdi/handshake.svg?color=%2358a6ff&width=32&height=32" width="32" align="center" /></td>
 <td><b>産学連携プロジェクトでフルサイクルを指揮</b><br>要件定義・設計・実装・リリースまでを一貫して担当（HiKaRiWo / 若鯱家）</td>
 </tr>
 <tr>
+<td width="48" align="center"><img src="https://api.iconify.design/mdi/briefcase.svg?color=%2358a6ff&width=32&height=32" width="32" align="center" /></td>
 <td><b>実案件・インターンでの実務経験あり</b><br>企業のコーポレートサイト制作に参画し、フロント〜バックまで担当</td>
 </tr>
 <tr>
+<td width="48" align="center"><img src="https://api.iconify.design/mdi/hammer-wrench.svg?color=%2358a6ff&width=32&height=32" width="32" align="center" /></td>
 <td><b>個人開発でも継続的にプロダクトを制作・公開中</b></td>
 </tr>
 </table>
 
 ---
 
-## Tech Stack
+## <img src="https://api.iconify.design/mdi/code-tags.svg?color=%2358a6ff&width=28&height=28" width="28" align="center" /> Tech Stack
 
 <div align="center">
 
@@ -48,7 +52,7 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 
 <br>
 
-### Backend
+### <img src="https://api.iconify.design/mdi/server.svg?color=%2358a6ff&width=22&height=22" width="22" align="center" /> Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -58,7 +62,7 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Frontend
+### <img src="https://api.iconify.design/mdi/monitor.svg?color=%2358a6ff&width=22&height=22" width="22" align="center" /> Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -66,7 +70,7 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Infrastructure & Tools
+### <img src="https://api.iconify.design/mdi/tools.svg?color=%2358a6ff&width=22&height=22" width="22" align="center" /> Infrastructure & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
@@ -80,13 +84,13 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 
 ---
 
-## 制作物一覧
+## <img src="https://api.iconify.design/mdi/folder-multiple.svg?color=%2358a6ff&width=28&height=28" width="28" align="center" /> 制作物一覧
 
 <div align="center"><i>個人開発から産学連携・実案件まで ― 制作したプロダクトを紹介します。</i></div>
 
 <br>
 
-### 主要プロジェクト
+### <img src="https://api.iconify.design/mdi/star-circle.svg?color=%2358a6ff&width=22&height=22" width="22" align="center" /> 主要プロジェクト
 
 <table>
 <tr>
@@ -253,7 +257,7 @@ JavaScriptで季節・色・由来などテーマ別に絞り込み検索を実�
 </tr>
 </table>
 
-### その他のプロジェクト
+### <img src="https://api.iconify.design/mdi/folder-outline.svg?color=%2358a6ff&width=22&height=22" width="22" align="center" /> その他のプロジェクト
 
 <table>
 <tr>
@@ -290,7 +294,7 @@ JavaScriptで季節・色・由来などテーマ別に絞り込み検索を実�
 
 ---
 
-## GitHub Stats
+## <img src="https://api.iconify.design/mdi/chart-line.svg?color=%2358a6ff&width=28&height=28" width="28" align="center" /> GitHub Stats
 <div align="center">
 
 <picture>
