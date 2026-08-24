@@ -2,19 +2,19 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=200&section=header&text=Takumi%20Akahori&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%2F%20Full-Stack%20Engineer&descAlignY=60&descAlign=50&descSize=20)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Laravel+%2F+ASP.NET+Backend+Developer;Full-Stack+Web+Engineer;Team+Leader+in+3+Projects;Building+products+that+matter+🚀;TypeScript+%2F+Next.js+%2F+Docker+%2F+PostgreSQL;Open+to+Internship+%26+Collaboration+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Laravel+%2F+ASP.NET+Backend+Developer;Full-Stack+Web+Engineer;Team+Leader+in+3+Projects;Building+products+that+matter;TypeScript+%2F+Next.js+%2F+Docker+%2F+PostgreSQL;Open+to+Internship+%26+Collaboration)](https://git.io/typing-svg)
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-takumisportfolio.main.jp-0078D4?style=for-the-badge&logoColor=white)](https://takumisportfolio.main.jp)
+[![Portfolio](https://img.shields.io/badge/Portfolio-takumisportfolio.main.jp-0078D4?style=for-the-badge&logoColor=white)](https://takumisportfolio.main.jp)
 &nbsp;
-[![Email](https://img.shields.io/badge/📧_Contact-akahori.t.24kdgn@gmail.com-EA4335?style=for-the-badge&logoColor=white)](mailto:akahori.t.24kdgn@gmail.com)
+[![Email](https://img.shields.io/badge/Contact-akahori.t.24kdgn@gmail.com-EA4335?style=for-the-badge&logoColor=white)](mailto:akahori.t.24kdgn@gmail.com)
 
 </div>
 
 ---
 
-## 👤 About Me
+## About Me
 
 KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 **Laravel / ASP.NET を中心としたバックエンド開発**を得意とし、
@@ -25,26 +25,22 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 
 <table>
 <tr>
-<td>🏆</td>
 <td><b>3つのチームでリーダーを担当</b><br>産学連携2件・文化祭制作でチームを牽引し、進行管理と技術選定を主導</td>
 </tr>
 <tr>
-<td>🤝</td>
 <td><b>産学連携プロジェクトでフルサイクルを指揮</b><br>要件定義・設計・実装・リリースまでを一貫して担当（HiKaRiWo / 若鯱家）</td>
 </tr>
 <tr>
-<td>💼</td>
 <td><b>実案件・インターンでの実務経験あり</b><br>企業のコーポレートサイト制作に参画し、フロント〜バックまで担当</td>
 </tr>
 <tr>
-<td>🛠️</td>
 <td><b>個人開発でも継続的にプロダクトを制作・公開中</b></td>
 </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -84,13 +80,13 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 
 ---
 
-## 🎨 制作物一覧
+## 制作物一覧
 
 <div align="center"><i>個人開発から産学連携・実案件まで ― 制作したプロダクトを紹介します。</i></div>
 
 <br>
 
-### 🏆 主要プロジェクト
+### 主要プロジェクト
 
 <table>
 <tr>
@@ -98,7 +94,7 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 
 <a href="https://github.com/74616b756d69/gourmet-Maps"><img src="https://raw.githubusercontent.com/74616b756d69/gourmet-Maps/develop/image/40754C78-870A-43B2-AD19-056288142DC3.png" width="48%" alt="TABE MAP 地図画面"/> <img src="https://raw.githubusercontent.com/74616b756d69/gourmet-Maps/develop/image/DE5DC42B-74A0-4B9D-9A92-E2CA6663422C.png" width="48%" alt="TABE MAP 記録画面"/></a>
 
-### 🍽️ TABE MAP / グルメマップ（個人開発）
+### TABE MAP / グルメマップ（個人開発）
 **モバイルファースト ― 地図 × 記録 × ランキング**
 
 外食したお店の評価を記録し、地図とランキングで振り返れるグルメ記録アプリ。
@@ -120,7 +116,7 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 
 <a href="https://cloudication.app"><img src="https://raw.githubusercontent.com/74616b756d69/cloudication/main/images/screenshot-clouds.jpg" width="48%" alt="cloudication 雲の投稿"/> <img src="https://raw.githubusercontent.com/74616b756d69/cloudication/main/images/screenshot-detail.jpg" width="48%" alt="cloudication 投稿詳細"/></a>
 
-### ☁️ cloudication / クモニケーション
+### cloudication / クモニケーション
 **チーム開発 ― フルスタック実装**
 
 匿名で「雲」を投稿し地図上で共有するWebアプリ。**Next.js + Express のモノレポ構成**で
@@ -134,7 +130,7 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 ![AWS%20S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-[**🌐 Live**](https://cloudication.app) ・ [**リポジトリ**](https://github.com/74616b756d69/cloudication)
+[**Live**](https://cloudication.app) ・ [**リポジトリ**](https://github.com/74616b756d69/cloudication)
 
 </td>
 </tr>
@@ -143,7 +139,7 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 
 <a href="https://github.com/74616b756d69/TECJUM-teamE_hikariwo"><img src="https://raw.githubusercontent.com/74616b756d69/TECJUM-teamE_hikariwo/main/images/lp.png" width="100%" alt="HiKaRiWo"/></a>
 
-### 🤝 HiKaRiWo（産学連携）
+### HiKaRiWo（産学連携）
 **チームリーダー ― 要件定義・実装指揮**
 
 サントリーGIC様との産学連携PJでチームリーダーを担当。
@@ -161,8 +157,8 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 
 <img src="https://raw.githubusercontent.com/74616b756d69/74616b756d69/main/images/animal-fanatic/screenshot-lp.png" width="48%" alt="animal Fanatic ランディングページ"/> <img src="https://raw.githubusercontent.com/74616b756d69/74616b756d69/main/images/animal-fanatic/screenshot-home.png" width="48%" alt="animal Fanatic ホーム画面"/>
 
-### 🦭 animal Fanatic（産学連携 / チーム開発）
-**🏆 2026年夏 TechJam ― スパイラル東海賞 受賞**
+### animal Fanatic（産学連携 / チーム開発）
+**2026年夏 TechJam ― スパイラル東海賞 受賞**
 
 動物園・水族館の生き物ごとに、ファンが**月額プラン**で継続支援できるWebアプリ。
 スパイラル東海様・lisco様との産学連携PJで、Laravel + Next.js のフルスタック構成で制作。
@@ -185,7 +181,7 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 
 <img src="https://takumisportfolio.main.jp/wp-content/uploads/2026/07/%E8%8B%A5%E9%AF%B1%E5%AE%B6-top-1024x580.png" width="100%" alt="若鯱家 Webサイト"/>
 
-### 🍜 若鯱家 Webサイト（産学連携）
+### 若鯱家 Webサイト（産学連携）
 **チームリーダー ― フロント設計**
 
 株式会社若鯱家様との産学連携PJ。若年層の集客を課題に、
@@ -203,7 +199,7 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 
 <a href="https://github.com/74616b756d69/Laravel_ToDo"><img src="https://raw.githubusercontent.com/74616b756d69/Laravel_ToDo/main/imags/tasklist-page.png" width="100%" alt="Laravel ToDo"/></a>
 
-### ✅ Laravel ToDo（個人開発）
+### Laravel ToDo（個人開発）
 **設計・実装すべてを担当**
 
 Laravel によるタスク管理アプリ。
@@ -223,7 +219,7 @@ Laravel によるタスク管理アプリ。
 
 <a href="https://takumisportfolio.main.jp"><img src="https://takumisportfolio.main.jp/wp-content/uploads/2026/07/portfolio-1024x580.png" width="100%" alt="Portfolio Site"/></a>
 
-### 🌐 Portfolio Site（個人開発）
+### Portfolio Site（個人開発）
 **デザイン・コーディングすべてを担当**
 
 自身のポートフォリオサイト。Three.js による3D演出・GSAPのスクロール
@@ -241,7 +237,7 @@ Laravel によるタスク管理アプリ。
 
 <img src="https://takumisportfolio.main.jp/wp-content/uploads/2026/07/YL-MEMORIA-1024x580.png" width="100%" alt="YL MEMORIA"/>
 
-### 🌸 YL MEMORIA（文化祭・チーム制作）
+### YL MEMORIA（文化祭・チーム制作）
 **チームリーダー ― フロント・デザイン**
 
 文化祭の展示作品「花詞データベース」。約50種の花を自ら調査し、
@@ -257,13 +253,13 @@ JavaScriptで季節・色・由来などテーマ別に絞り込み検索を実�
 </tr>
 </table>
 
-### 💻 その他のプロジェクト
+### その他のプロジェクト
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 📝 Code Note（個人開発）
+#### Code Note（個人開発）
 コードやメモをMarkdown形式で整理・管理できるWebアプリ。
 リアルタイムMarkdownプレビュー・ラベル管理・画像挿入を実装。
 
@@ -278,7 +274,7 @@ JavaScriptで季節・色・由来などテーマ別に絞り込み検索を実�
 </td>
 <td width="50%" valign="top">
 
-#### 🍽️ La Pesca 様 Webサイト（実案件）
+#### La Pesca 様 Webサイト（実案件）
 クライアント案件として制作に参加したWebサイト。
 実案件のワークフローの中でフロントエンドのコーディングを担当。
 
@@ -294,7 +290,7 @@ JavaScriptで季節・色・由来などテーマ別に絞り込み検索を実�
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <div align="center">
 
 <picture>
