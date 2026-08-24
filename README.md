@@ -84,13 +84,47 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 
 ---
 
-## 🚀 Featured Projects
+## 🎨 制作物一覧
 
-<div align="center"><i>個人開発から産学連携・実案件まで ― 制作したプロダクトの一部を紹介します。</i></div>
+<div align="center"><i>個人開発から産学連携・実案件まで ― 制作したプロダクトを紹介します。</i></div>
 
 <br>
 
+### 🏆 主要プロジェクト
+
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+### 🦭 animal Fanatic（産学連携 / チーム開発）🏆 スパイラル東海賞 受賞
+**2026年夏 TechJam ― チームF / バックエンド・実装リード**
+
+動物園・水族館の生き物ごとに、ファンが**月額プラン**で継続支援できるWebアプリ。
+「施設に寄付」ではなく「**この子を応援する**」に単位を落とし、支援するとその生き物の限定投稿だけが解放されます。
+スパイラル東海様・lisco様との**産学連携プロジェクト**として、6名チームで制作。
+
+**実装のポイント:**
+- 支援プランを**生き物単位**で紐付け、権限判定は `Post::isReadableBy()` にモデル集約
+- 未加入ユーザーには ffmpeg で生成した**モザイク画像**を返す（原本URLを露出させない）
+- 投げ銭の金額・数量はサーバーEnum固定で改ざんを防止
+- エサ残高は台帳（`food_transactions`）から都度集計、`lockForUpdate()` で競合排除
+- 4層ロール（guest / user / poster / admin）を API・画面の二重で防御
+- Feature テスト 142 ケースで支援・権限・残高計算をカバー
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel_13-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+
+<sub>※ 非公開リポジトリ ― 詳細は面談時にご紹介できます</sub>
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
